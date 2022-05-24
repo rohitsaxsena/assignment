@@ -1,0 +1,5 @@
+name: Assignment  
+type: module  
+description: This module includes the assignment related configs and functionalies.
+core_version_requirement: ^8.8 || ^9
+package: Custom  

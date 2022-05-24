@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function assignment_theme($existing, $type, $theme, $path) {
+    return [
+      'current_time' => [
+        'variables' => ['data' => NULL],
+      ],
+    ];
+  }

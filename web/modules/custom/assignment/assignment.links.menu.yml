@@ -1,0 +1,5 @@
+assignment.timezone_form:
+  title: 'Timezone form'
+  parent: system.admin_config
+  description: 'Set timezone with the country and city'
+  route_name: assignment.config_settings_form

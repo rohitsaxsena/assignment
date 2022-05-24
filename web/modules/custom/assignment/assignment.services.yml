@@ -1,0 +1,4 @@
+services:
+  assignment.currenty_time_service:
+    class: Drupal\assignment\CurrentTimeService
+    arguments: ['@config.factory']
